@@ -1,1 +1,1 @@
- # simple omdb api functionality with redux toolkit.
+ ## simple omdb api functionality with redux toolkit.
